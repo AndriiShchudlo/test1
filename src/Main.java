@@ -7,7 +7,7 @@ import static java.time.temporal.TemporalAdjusters.*;
 public class Main {
     String name = "";
     int age = 0;
-    private static LocalDate date;
+    public static LocalDate date;
 
 
     public static void main(String[] args){
@@ -19,4 +19,8 @@ public class Main {
         person.age = 23;
         System.out.println("Name: " + person.name + " Age: " + person.age);
     }
+    //gggggggggggggggggggggggggg
+    //ggggggggggggggggggggggggg
+    //ggggggggggggggggggggggggg
+    
 }
